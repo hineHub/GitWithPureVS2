@@ -8,6 +8,8 @@ namespace ConsoleApp1
         {
             //Code was added in GitHub editor
             Console.WriteLine("Hello World!");
+
+            //Code to call Feature1
         }
     }
 }
